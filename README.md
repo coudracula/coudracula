@@ -15,7 +15,7 @@
 <h3 align="center">Pilha</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,cpp,java" height="54" />
+  <img src="https://skillicons.dev/icons?i=linux,cpp,java,html" height="54" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/claude/D97757" height="44" />
 </p>
