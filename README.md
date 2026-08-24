@@ -1,39 +1,33 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=coudracula&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=18" />
-
-<h1 align="center">Hi 👋, I'm coudracula</h1>
-
-<h3 align="center">Backend Developer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=coudracula&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=40&desc=backend%20%E2%80%A2%20apis%20%E2%80%A2%20clean%20architecture&descAlignY=60&descSize=16" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Just+Code+It;APIs+that+don't+break;Clean+architecture+lover" alt="Typing SVG" />
+  <img src="https://img.shields.io/github/followers/coudracula?label=Followers&style=for-the-badge&color=0f2027&labelColor=161b22&logo=github" />
+  <img src="https://img.shields.io/github/stars/coudracula?label=Stars&style=for-the-badge&color=0f2027&labelColor=161b22&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=coudracula&label=Profile+Views&style=for-the-badge&color=161b22" />
 </p>
 
-<p align="center">Building reliable backend systems with clean architecture and scalable solutions.</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Focado em desenvolvimento **backend** — APIs, bancos de dados e infraestrutura.
-- 🌱 Estudando **Python, FastAPI, PostgreSQL, Docker e Redis**.
-- 🧠 Afiando lógica com **Estruturas de Dados & Algoritmos**.
-- 🎯 Objetivo: escrever código limpo, construir software confiável e criar sistemas que duram.
-- 💬 Fale comigo sobre **backend, APIs e boas práticas de código**.
-
----
-
-## 🤝 Connect
-
 <p align="center">
-  <a href="https://github.com/coudracula"><img src="https://skillicons.dev/icons?i=github" height="45" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Backend+Developer;APIs+that+don't+break;Clean+architecture+lover;Just+Code+It" alt="Typing SVG" />
 </p>
 
+## Hello Everyone 👋 I am coudracula
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=0:203a43,100:2c5364&height=140&section=header" />
+
+Sou **desenvolvedor backend**, focado em construir **APIs confiáveis**, com **arquitetura limpa** e **soluções escaláveis**. Trabalho com **Python, FastAPI, PostgreSQL, Docker e Redis**, e sigo afiando lógica com **Estruturas de Dados & Algoritmos**.
+
+> Meu objetivo é simples: escrever código limpo, construir software confiável e criar sistemas que duram.
+
 ---
 
-## 💻 Tech Stack
+## 🧩 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,mysql,redis,docker,git,github,vscode,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,mysql&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=redis,docker,git,github,linux,vscode&perline=6" />
 </p>
 
 <p align="center">
@@ -42,15 +36,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Github Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=coudracula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coudracula&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coudracula&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=coudracula&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coudracula&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coudracula&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coudracula&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coudracula&theme=github_dark&utcOffset=-3" />
 </p>
 
 ---
@@ -61,8 +60,12 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=coudracula&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
+---
+
+## 🤝 Connect
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=coudracula&label=Profile+views&color=58A6FF&style=flat" />
+  <a href="https://github.com/coudracula"><img src="https://skillicons.dev/icons?i=github" height="48" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer" />
